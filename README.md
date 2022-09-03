@@ -2,7 +2,7 @@
 - 👀 I’m interested in C# Programming
 - 🌱 I’m currently learning Blazor WASM
 - 💞️ I’m looking to collaborate on C# Developers
-- 📫 How to reach me ...
+- 📫 How to reach me thony8687@outlook.ph
 
 <!---
 NyyTo/NyyTo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
